@@ -56,7 +56,6 @@ function onReady() {
      function deleteToDo() {
 
        toDos = toDos.filter(searchIds);
-
      }
 
      }
